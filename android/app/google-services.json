@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "442278246100",
+    "project_id": "todo-authentication-c35d6",
+    "storage_bucket": "todo-authentication-c35d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442278246100:android:ae323a8d91ff9fef762d41",
+        "android_client_info": {
+          "package_name": "com.example.authentication_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442278246100-l44ji01b4a5jub9tsd49l7gh7cogp34c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssR-ibC6b0s6P7c6TQUzY65KairM3viM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442278246100-l44ji01b4a5jub9tsd49l7gh7cogp34c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442278246100-qopg6blgq0o39hhr49eoeig4dndlvp1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
